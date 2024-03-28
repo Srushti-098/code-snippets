@@ -1,0 +1,29 @@
+{
+  "name": "code-snippets",
+  "displayName": "code-snippets",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Srushti-098/code-snippets"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "c++",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

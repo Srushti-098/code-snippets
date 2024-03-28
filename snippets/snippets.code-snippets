@@ -1,0 +1,14 @@
+{
+    "Basic HTML List": {
+        "prefix": "!bhtmltable",
+        "body": [
+            "<ol>",
+            "<li> Apple </li>",
+            "<li> Banana </li>",
+            "<li> Custard Apple </li>",
+            "<li> Dragonfruit </li>",
+            "</ol>"
+        ],
+        "description": "basic html list"
+    }
+}
